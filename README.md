@@ -25,7 +25,7 @@ Malazgirt'ten Fetih Yolu'na: 1453 bölüm, 30 sefer. İlk 100 bölüm ücretsiz.
 
 Yakında: **Kurt Yolu** ve **Kırmızı Yalı**.
 
-Hepsi ücretsiz, reklamsız ve kişisel veri toplamıyor. · *All free, no ads, no personal data.*
+Hepsi reklamsız ve kişisel veri toplamıyor. · *No ads, no personal data.*
 
 ## Bağlantılar · Links
 
