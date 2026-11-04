@@ -15,9 +15,9 @@ Ligi menajer gibi yönet, maçı sen oyna. Beş maç modu: Kaptan Mecit, Malazgi
 <a href="https://apps.apple.com/tr/app/champion-battle-manager/id6757344306">App Store</a>
 </td>
 <td width="50%" valign="top">
-<img src="https://emreanduv.github.io/img/mlz-sefer.jpg" alt="Malazgirt Akıncıları" width="100%"><br>
+<img src="https://emreanduv.github.io/img/mlz15-kar.jpg" alt="Malazgirt Akıncıları" width="100%"><br>
 <b>Malazgirt Akıncıları</b><br>
-Doğru kapı, büyük ordu. Akıncılarını sefere çıkar, kaleleri aş.<br>
+Malazgirt'ten Fetih Yolu'na: 1453 bölüm, 30 sefer. İlk 100 bölüm ücretsiz.<br>
 <a href="https://apps.apple.com/tr/app/id6822718671">App Store</a>
 </td>
 </tr>
