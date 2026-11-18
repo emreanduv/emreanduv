@@ -9,9 +9,9 @@ Gündüzleri beyaz yakalı kostümümle modern zamanların kibar kölelik düzen
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://emreanduv.github.io/img/cbm4-izle.jpg" alt="Champion Battle Manager" width="100%"><br>
+<img src="https://emreanduv.github.io/img/cbm411-stad.jpg" alt="Champion Battle Manager" width="100%"><br>
 <b>Champion Battle Manager</b><br>
-Gün gün yönettiğin bir futbol menajerlik oyunu. Sürüm 4 hazırlanıyor.<br>
+Cebindeki futbol menajerliği: dört kıta, 28 lig, 497 kulüp, milli takım ve 3B stadyum. İlk sezonun ilk yarısı ücretsiz.<br>
 <a href="https://apps.apple.com/tr/app/champion-battle-manager/id6757344306">App Store</a>
 </td>
 <td width="50%" valign="top">
