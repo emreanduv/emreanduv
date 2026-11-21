@@ -21,6 +21,15 @@ Malazgirt'ten Fetih Yolu'na: 1453 bölüm, 30 sefer. İlk 100 bölüm ücretsiz.
 <a href="https://apps.apple.com/tr/app/id6822718671">App Store</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://emreanduv.github.io/img/yy-kapadokya.jpg" alt="Yokuş Yolu" width="100%"><br>
+<b>Yokuş Yolu</b><br>
+Keloğlan direksiyonda: Kapadokya'dan Altaylar'a 1923 bölüm, 10 sahne, 5 efsane araç. İlk 10 bölüm ücretsiz.<br>
+<a href="https://apps.apple.com/tr/app/id6836515355">App Store</a>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 Yakında: **Kurt Yolu** ve **Kırmızı Yalı**.
