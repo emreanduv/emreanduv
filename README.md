@@ -35,6 +35,15 @@ Kanatlı at Tulpar'ın sırtında 1923 bölümlük platform macerası. Dünya 1 
 <a href="https://apps.apple.com/tr/app/id6836176481">App Store</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://emreanduv.github.io/img/km-yakin.jpg" alt="Kaptan Mecit" width="100%"><br>
+<b>Kaptan Mecit</b><br>
+Maçı sen oynarsın: 3B stadyumda 11'e 11 ya da piksel retro Klasik. 28 lig, kupalar, haftalık kadrolar. Ücretsiz.<br>
+<a href="https://apps.apple.com/tr/app/id6824240380">App Store</a>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 Yakında: **Kurt Yolu** ve **Kırmızı Yalı**.
