@@ -42,7 +42,12 @@ Kanatlı at Tulpar'ın sırtında 1923 bölümlük platform macerası. Dünya 1 
 Maçı sen oynarsın: 3B stadyumda 11'e 11 ya da piksel retro Klasik. 28 lig, kupalar, haftalık kadrolar. Ücretsiz.<br>
 <a href="https://apps.apple.com/tr/app/id6824240380">App Store</a>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<img src="https://emreanduv.github.io/img/ns-salon.jpg" alt="Nutuk Salonu" width="100%"><br>
+<b>Nutuk Salonu</b><br>
+Nutuk'un tam metni, her cümlenin altında bugünün Türkçesi ve 1927 Meclis salonu. Tamamen ücretsiz.<br>
+<a href="https://apps.apple.com/tr/app/id6828892980">App Store</a>
+</td>
 </tr>
 </table>
 
